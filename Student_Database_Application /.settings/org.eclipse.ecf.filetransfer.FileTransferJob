@@ -1,1 +1,17 @@
+eclipse.preferences.version=1
+org.eclipse.ecf.filetransfer.FileTransferJob.codegen.inlineJsrBytecode=enabled
+org.eclipse.ecf.filetransfer.FileTransferJob.codegen.targetPlatform=17
+org.eclipse.ecf.filetransfer.FileTransferJob.codegen.unusedLocal=preserve
+org.eclipse.ecf.filetransfer.FileTransferJob.compliance=17
+org.eclipse.ecf.filetransfer.FileTransferJob.debug.lineNumber=generate
+org.eclipse.ecf.filetransfer.FileTransferJob.debug.localVariable=generate
+org.eclipse.ecf.filetransfer.FileTransferJob.debug.sourceFile=generate
+org.eclipse.ecf.filetransfer.FileTransferJob.problem.assertIdentifier=error
+org.eclipse.ecf.filetransfer.FileTransferJob.problem.enablePreviewFeatures=disabled
+org.eclipse.ecf.filetransfer.FileTransferJob.problem.enumIdentifier=error
+org.eclipse.ecf.filetransfer.FileTransferJob.problem.reportPreviewFeatures=warning
+org.eclipse.ecf.filetransfer.FileTransferJob.release=enabled
+org.eclipse.ecf.filetransfer.FileTransferJob.source=17
+
+
 
